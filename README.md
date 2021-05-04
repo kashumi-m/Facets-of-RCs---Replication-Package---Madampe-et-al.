@@ -18,7 +18,7 @@ We invite researchers to replicate this study. We appreciate if you could let us
 
 Good Luck!
 
-Kashumi Madampe, Rashina Hoda, John Grundy
+Kashumi Madampe, Rashina Hoda, John Grundy | 
 HumaniSE Lab,
 Monash University, Australia.
 
