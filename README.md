@@ -12,7 +12,7 @@ relavant to this study.
 
 Since some of the qualitative data we collected through the interviews are:
 1. Out of scope of this study; and
-2. We use them in our other studies;
+2. We use them in other studies;
 We do not provide the interview transcripts here.
 
 We invite researchers to replicate this study. We appreciate if you could let us know the results via email (See the paper for contact information).
