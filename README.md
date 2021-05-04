@@ -1,6 +1,8 @@
 # Taxonomy-of-RCs---Replication-Package---Madampe-et-al.
 This is the replication package of the IEEE Transactions on Software Engineering paper on Taxonomy of Requirements Changes in Agile Contexts | Kashumi Madampe; Rashina Hoda; John Grundy
 
+The study followed a mixed-methods approach (a series of interviews, a focused literature review, and a practitioner survey).
+
 This repository contains,
 1. Pre-interview questionnaire;
 2. Interview guide;
