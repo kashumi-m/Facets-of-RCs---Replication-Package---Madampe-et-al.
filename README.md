@@ -10,7 +10,7 @@ relavant to this study.
 
 Since some of the qualitative data are:
 1. Out of scope of this study;
-2. Difficult to separately provide here; and
+2. Difficult to separate; and
 3. We use them in our other studies;
 We do not provide them here.
 
@@ -22,7 +22,7 @@ Kashumi Madampe, Rashina Hoda, John Grundy
 HumaniSE Lab,
 Monash University, Australia.
 
-https://kashumim.com/
-https://rashina.com/
-https://sites.google.com/site/johncgrundy/
+https://kashumim.com/ 
+https://rashina.com/ 
+https://sites.google.com/site/johncgrundy/ 
 https://www.monash.edu/it/humanise-lab
