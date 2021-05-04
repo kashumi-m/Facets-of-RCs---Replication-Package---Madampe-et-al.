@@ -8,7 +8,7 @@ This repository contains,
 4. Survey data: all raw, analysed quantitative;
 relavant to this study.
 
-Since some of the qualitative data are:
+Since some of the qualitative data we collected through the interview and the survey are:
 1. Out of scope of this study;
 2. Difficult to separate; and
 3. We use them in our other studies;
