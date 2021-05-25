@@ -10,10 +10,7 @@ This repository contains,
 4. Survey data: all raw, analysed quantitative;
 relavant to this study.
 
-Since some of the qualitative data we collected through the interviews are:
-1. Out of scope of this study; and
-2. We use them in other studies;
-We do not provide the interview transcripts here.
+Due to the confidentiality, we do not provide the interview transcripts here.
 
 We encourage researchers to replicate this study. We appreciate if you could let us know the results via email (See the paper for contact details).
 
