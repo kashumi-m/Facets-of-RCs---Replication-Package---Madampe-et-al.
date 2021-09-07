@@ -14,6 +14,15 @@ Due to the confidentiality, we do not provide the interview transcripts here.
 
 We encourage researchers to replicate this study. We appreciate if you could let us know the results via email (See the paper for contact details).
 
+Please make sure to to cite us.
+@article{madampe2021faceted,
+  title={A Faceted Taxonomy of Requirements Changes in Agile Contexts},
+  author={Madampe, Kashumi and Hoda, Rashina and Grundy, John},
+  journal={IEEE Transactions on Software Engineering},
+  year={2021},
+  publisher={IEEE}
+}
+
 Good Luck!
 
 Kashumi Madampe, Rashina Hoda, John Grundy | 
